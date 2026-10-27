@@ -36,5 +36,9 @@ README.md
 
 ```go run .``` in root terminal of the project
 
+## Release
+
+[![Release](https://img.shields.io/github/v/release/pari0192/Slot-Machine)](https://github.com/pari0192/Slot-Machine/releases/latest)
+
 ## License
 MIT License © 2026 Pari. Free to use , modify and distribute.
